@@ -11,3 +11,26 @@ nav a {
     color: #c45f00;
     font-weight: bold;
 }
+body {
+    background-color: #fff3cd;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    margin-top: 40px;
+}
+
+footer a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #c45f00;
+    font-weight: bold;
+}
