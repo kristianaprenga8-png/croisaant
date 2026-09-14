@@ -1,0 +1,13 @@
+body {
+    background-color: #fff3cd;
+    /* light croissant yellow */
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #c45f00;
+    font-weight: bold;
+}
